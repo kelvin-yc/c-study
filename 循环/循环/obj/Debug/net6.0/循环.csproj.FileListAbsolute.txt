@@ -1,0 +1,5 @@
+E:\嵌入式软件开发\c++\vs项目\循环\循环\obj\Debug\net6.0\循环.csproj.AssemblyReference.cache
+E:\嵌入式软件开发\c++\vs项目\循环\循环\obj\Debug\net6.0\循环.GeneratedMSBuildEditorConfig.editorconfig
+E:\嵌入式软件开发\c++\vs项目\循环\循环\obj\Debug\net6.0\循环.AssemblyInfoInputs.cache
+E:\嵌入式软件开发\c++\vs项目\循环\循环\obj\Debug\net6.0\循环.AssemblyInfo.cs
+E:\嵌入式软件开发\c++\vs项目\循环\循环\obj\Debug\net6.0\循环.csproj.CoreCompileInputs.cache
